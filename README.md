@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/akaashee/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/akaashee/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 ## Interactive
 |  |
@@ -17,4 +18,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/akaashee/leetcode/tree/master/0338-counting-bits) |
+## Array
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/akaashee/leetcode/tree/master/0349-intersection-of-two-arrays) |
+## Hash Table
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/akaashee/leetcode/tree/master/0349-intersection-of-two-arrays) |
+## Two Pointers
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/akaashee/leetcode/tree/master/0349-intersection-of-two-arrays) |
+## Sorting
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/akaashee/leetcode/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
